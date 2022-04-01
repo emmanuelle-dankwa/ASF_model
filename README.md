@@ -14,12 +14,9 @@ The repository contains three folders and three data documentation files.
 The folders are:
 
 * `pig_herd_component`: contains files for modelling ASF infection dynamics in pig herds \
-      Subfolders are: \
-      
-        + `Phase1`: files for Phase 1; refer to `documentation_phase1_ph.pdf` for details on folder contents\
-        
-        + `Phase2`: files for Phase 2; refer to `documentation_phase2_ph.pdf` for details on folder contents \
-        
+      Subfolders are: \    
+        + `Phase1`: files for Phase 1; refer to `documentation_phase1_ph.pdf` for details on folder contents\  
+        + `Phase2`: files for Phase 2; refer to `documentation_phase2_ph.pdf` for details on folder contents \     
         + `Phase3`: files for Phase 3; refer to `documentation_phase3_ph.pdf` for details on folder contents \
        
 * `wild_boar_component`: contains files for modelling ASF infection dynamics in wild boar \
