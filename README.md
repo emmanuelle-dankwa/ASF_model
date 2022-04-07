@@ -1,4 +1,4 @@
-# Documentation [repository under development...]
+# ASF_model
 
 ## About 
 
@@ -27,16 +27,16 @@ The folders are:
   + Phase 2: files for Phase 2 model; refer to `documentation_phase2_wb.pdf` for details 
   + Phase 3: files for Phase 3 model; refer to `documentation_phase3_wb.pdf` for details
         
-* `time_series_plots_all`: contains files for producing plots of model predictions under the disease management measures and sensitivity analysis scenarios considered 
+* `time_series_plots_all`: contains files for producing incidence plots of model predictions under the disease management measures and sensitivity analysis scenarios considered 
       
      Subfolders are:
   + `scripts`: contains the files
-           - `organize_data_for_plots.R`, for organizing data for plots; and
-           - `time_series_plots_script.R`, for producing plots given plotting data
-  + `data`: contains plotting data
+      - `organize_data_for_plots.R`, for organizing data for plots; and
+      - `time_series_plots_script.R`, for producing plots given plotting data
+  + `data`: contains `plotting_data_scenarios.rda`, which holds all data for incidence plots
 
 
-The documentation files are `Phase 1 model data documentation.pdf`, `Phase 2 model data documentation.pdf` and `Phase 3 model data documentation.pdf`, for model input and output data at Phase 1, Phase 2 and Phase 3, respectively. These files are referenced in the phase-specific documentation introduced above.  
+The documentation files are `Phase 1 model data documentation.pdf`, `Phase 2 model data documentation.pdf` and `Phase 3 model data documentation.pdf`, for model input and output data at Phase 1, Phase 2 and Phase 3, respectively. These files are referenced in the phase-specific documentation in `pig_herd_component` and  `wild_boar_component`.  
 
 
 
