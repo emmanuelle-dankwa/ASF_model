@@ -4,7 +4,7 @@
 
 The scripts and data held in this repository reproduces the results of the African swine fever (ASF) model as presented in the manuscript:
 
-Dankwa, E.A, Lambert, S., Hayes, S., Thompson, R.N., Donnelly, C.A. Stochastic spatiotemporal of African swine fever in wild boar and domestic pigs: epidemic forecasting and comparison of disease management strategies. 
+Dankwa, E.A, Lambert, S., Hayes, S., Thompson, R.N., Donnelly, C.A. Stochastic modelling of African swine fever in wild boar and domestic pigs: epidemic forecasting and comparison of disease management strategies. 
 
 
 ## Contents
