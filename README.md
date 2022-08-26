@@ -54,7 +54,7 @@ To reproduce results for pig herds at any phase,
 
 ## Queries
 
-Queries and suggestions are always welcome. Please email Emmanuelle at dankwa@stats.ox.ac.uk with such. 
+Queries and suggestions are always welcome. Please email Emmanuelle at emmanuelledankwa@gmail.com with such. 
 
 ## License
 
